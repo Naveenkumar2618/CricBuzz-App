@@ -7,4 +7,5 @@ This to create the cricket score app
 IPL 2024 Schedule
 
 RCB VS CSK
-MI VS KKR
+MI VS KKR  
+PBKS VS RR
